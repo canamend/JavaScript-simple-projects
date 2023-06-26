@@ -1,7 +1,8 @@
 import './style.css'
 import javascriptLogo from './javascript.svg'
 import viteLogo from '/vite.svg'
-import { setupCounter } from './counter.js'
+import { environmentsComponent } from './src/concepts/01-environments';
+import { callbacksComponent } from './src/concepts/02-callbacks';
 
 document.querySelector('#app').innerHTML = `
   <div>
@@ -13,12 +14,14 @@ document.querySelector('#app').innerHTML = `
     </a>
     <h1>Hello Vite!</h1>
     <div class="card">
-      <button id="counter" type="button"></button>
-    </div>
-    <p class="read-the-docs">
-      Click on the Vite logo to learn more
-    </p>
-  </div>
-`
+    
 
-setupCounter(document.querySelector('#counter'))
+
+    </div>
+  </div>
+`;
+
+const element = document.querySelector('.card');
+
+callbacksComponent( element );
+
