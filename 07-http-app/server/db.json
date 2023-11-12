@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 14,
+      "isActive": false,
+      "balance": 2449.31,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Carissa",
+      "last_name": "Floyd",
+      "gender": "female"
+    },
+    {
+      "id": 15,
+      "isActive": true,
+      "balance": 1279.21,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Baird",
+      "last_name": "Atkinson",
+      "gender": "male"
+    },
+    {
+      "id": 16,
+      "isActive": false,
+      "balance": 3319.73,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Cooper",
+      "last_name": "Lang",
+      "gender": "male"
+    },
+    {
+      "id": 17,
+      "isActive": false,
+      "balance": 3194.49,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Lou",
+      "last_name": "Fischer",
+      "gender": "female"
+    },
+    {
+      "id": 18,
+      "isActive": true,
+      "balance": 3769.4,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Burke",
+      "last_name": "Giles",
+      "gender": "male"
+    },
+    {
+      "id": 19,
+      "isActive": false,
+      "balance": 3848.76,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Sybil",
+      "last_name": "Mann",
+      "gender": "female"
+    },
+    {
+      "id": 20,
+      "isActive": false,
+      "balance": 1239.99,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Norris",
+      "last_name": "Conway",
+      "gender": "male"
+    },
+    {
+      "id": 21,
+      "isActive": true,
+      "balance": 3811.6,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Hull",
+      "last_name": "Love",
+      "gender": "male"
+    },
+    {
+      "id": 22,
+      "isActive": false,
+      "balance": 1463.99,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Frankie",
+      "last_name": "Hensley",
+      "gender": "female"
+    },
+    {
+      "id": 23,
+      "isActive": false,
+      "balance": 2028.55,
+      "avatar": "http://placehold.it/32x32",
+      "first_name": "Padilla",
+      "last_name": "Kane",
+      "gender": "male"
+    }
+  ]
+}
